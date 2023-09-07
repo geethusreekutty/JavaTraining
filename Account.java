@@ -8,7 +8,7 @@ public class Account
         System.out.println("Account Type:Savings");
         System.out.println("Branch Name:ICICI");
         System.out.println("IFSC Code:ICICI000");
-        System.out.println("Account Number:123456789");
+        System.out.println("Address: Amigoz,Arasummood,TVM");
 
     }
 }
